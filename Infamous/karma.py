@@ -1,6 +1,4 @@
-# https://github.com/Infamous-Hydra/YaeMiko
-# https://github.com/Team-ProjectCodeX
-# https://t.me/O_okarma
+# https://t.me/chickchoker
 
 # <============================================== IMPORTS =========================================================>
 from pyrogram.types import InlineKeyboardButton as ib

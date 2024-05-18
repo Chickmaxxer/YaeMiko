@@ -8,7 +8,7 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/40b93b46642124605e678.jpg",
+    "https://graph.org/file/924052956c320c4a30e2c.jpg",
     "https://telegra.ph/file/01a2e0cd1b9d03808c546.jpg",
     "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
     "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",

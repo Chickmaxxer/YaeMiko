@@ -10,7 +10,7 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 START_IMG = [
     "https://graph.org/file/924052956c320c4a30e2c.jpg",
     "https://graph.org/file/eac99dd18a261b11adaca.jpg",
-    "https://telegra.ph/file/ed4385c26dcf6de70543f.jpg",
+    "https://graph.org/file/8c924fd0844c6cadedd07.jpg",
     "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
     "https://telegra.ph/file/cce9038f6a9b88eb409b5.jpg",
     "https://telegra.ph/file/262c86393730a609cdade.jpg",

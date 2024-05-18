@@ -14,7 +14,7 @@ START_IMG = [
     "https://graph.org/file/4d8f6f38a7f3683fa2a4a.jpg",
     "https://graph.org/file/67979fc64642071b7e8e3.jpg",
     "https://graph.org/file/f4ec6cba9db0a9e570ff4.jpg",
-    "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg",
+    "https://graph.org/file/4708c35417ea1f985d2fc.jpg",
 ]
 
 HEY_IMG = "https://telegra.ph/file/33a8d97739a2a4f81ddde.jpg"

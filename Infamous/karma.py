@@ -55,12 +55,12 @@ START_BTN = [
         ),
     ],
     [
-        InlineKeyboardButton(text="HELP/commands", callback_data="help_back"),
-        InlineKeyboardButton(text="Developer", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="HELP/commands 🔐", callback_data="help_back"),
+        InlineKeyboardButton(text="Developer ✨", url=f"tg://user?id={OWNER_ID}"),
     ],
     [
-        InlineKeyboardButton(text="Info", callback_data="Miko_"),
-        InlineKeyboardButton(text="AI", callback_data="ai_handler"),
+        InlineKeyboardButton(text="Info 📬", callback_data="Miko_"),
+        InlineKeyboardButton(text="Network 🔱", url="https://t.me/AnimeNexusNetwork"),
     ],
 ]
 

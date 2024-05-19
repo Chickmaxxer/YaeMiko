@@ -32,31 +32,44 @@ ALIVE_ANIMATION = [
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
-PM_START_TEXT = "✨ *ɪ ᴀᴍ ᴍɪᴋᴏ, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
+PM_START_TEXT = "✨ *ɪ'ᴍ ᴀꜱᴀ ᴍɪᴛᴀᴋᴀ . . .
+
+❖ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀɴᴅ ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ. ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ꜱᴜᴘᴇʀ ᴄᴏᴏʟ ꜰᴇᴀᴛᴜʀᴇꜱ. ✨
+
+≪━─━─━─━─◈─━─━─━─━≫
+• ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 🔑
+• ɪɴꜰᴏ ᴘʀᴏᴠɪᴅᴇʀ 📤
+• ᴀɴᴛɪ ꜱᴘᴀᴍ 🚨
+• ᴀɪ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ 🤖
+• ᴍᴀɴʏ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴛʜɪɴɢꜱ ✨
+≪━─━─━─━─◈─━─━─━─━≫
+
+ᴛʏᴘᴇ /start ᴛᴏ ꜱᴛᴀʀᴛ ᴍᴇ ɪɴ ᴅᴍ.
+ᴛʏᴘᴇ /help ᴛᴏ ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ ᴄᴏᴏʟ ꜰᴇᴀᴛᴜʀᴇꜱ.*"
 
 START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="❖ ADD ME ❖",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="HELP", callback_data="help_back"),
+        InlineKeyboardButton(text="HELP/commands", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
+        InlineKeyboardButton(text="Info", callback_data="Miko_"),
         InlineKeyboardButton(text="AI", callback_data="ai_handler"),
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="Developer", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
 GROUP_START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="❖ ADD ME ❖",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],

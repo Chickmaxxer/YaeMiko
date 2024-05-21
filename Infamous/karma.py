@@ -67,7 +67,7 @@ START_BTN = [
 GROUP_START_BTN = [
     [
         InlineKeyboardButton(
-            text="❖ ADD ME ❖",
+            text=" ADD ME ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
